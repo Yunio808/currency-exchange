@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="currency_array">
+        <item>Euro (EUR)</item>
+        <item>Pound (GBP)</item>
+        <item>Yen (JPY)</item>
+        <item>US Dollar (USD)</item>
+        <item>Ruble (RUB)</item>
+        <item>Yuan (CNY)</item>
+    </string-array>
+</resources>
